@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/malavnitin199/TestUtils/static/css/main.5cb8759d.css",
+    "main.js": "/malavnitin199/TestUtils/static/js/main.beec80c1.js",
+    "static/js/787.719ec76d.chunk.js": "/malavnitin199/TestUtils/static/js/787.719ec76d.chunk.js",
+    "index.html": "/malavnitin199/TestUtils/index.html",
+    "main.5cb8759d.css.map": "/malavnitin199/TestUtils/static/css/main.5cb8759d.css.map",
+    "main.beec80c1.js.map": "/malavnitin199/TestUtils/static/js/main.beec80c1.js.map",
+    "787.719ec76d.chunk.js.map": "/malavnitin199/TestUtils/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cb8759d.css",
+    "static/js/main.beec80c1.js"
+  ]
+}
